@@ -2,6 +2,7 @@ header {
     color: lightgreen;
     background-color: black;
     text-align: center;
+    margin: 0;
 }
 
 h2 {
@@ -12,10 +13,11 @@ h2 {
 
 main {
     background-color: lightgray;
-    
+    padding: 1em;   
 }
 
 body {
-    background-image: url('record.png');
-    background-image: repeat;
+    background-image: url(record.png); 
+    background-repeat: repeat;
+    margin: 0;   
 }
