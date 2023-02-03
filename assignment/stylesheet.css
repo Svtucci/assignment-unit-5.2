@@ -1,0 +1,21 @@
+header {
+    color: lightgreen;
+    background-color: black;
+    text-align: center;
+}
+
+h2 {
+    color: lightgreen;
+    background-color: black;
+    text-align: center;
+}
+
+main {
+    background-color: lightgray;
+    
+}
+
+body {
+    background-image: url('record.png');
+    background-image: repeat;
+}

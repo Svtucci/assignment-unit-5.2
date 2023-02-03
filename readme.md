@@ -21,7 +21,7 @@ Update the HTML:
 
 Add a Stylesheet:
 
-- Create a `stylesheet.css` file and source it into the HTML file.
+- Create a `stylesheet.css` file and source it into the HTML file.   
 - Give the `header` a dark background color and choose a light  color for the text.
 - Center the text in the `header`.
 - Give the `main` a light grey background color.
